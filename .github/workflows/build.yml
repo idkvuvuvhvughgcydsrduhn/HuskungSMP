@@ -1,4 +1,3 @@
-
 name: Build GrimAC
 
 on:
@@ -33,4 +32,3 @@ jobs:
         with:
           name: GrimAC-JAR
           path: source/Grim-2.3.74/**/build/libs/*.jar
-          
